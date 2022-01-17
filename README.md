@@ -1,4 +1,4 @@
-## Olá mundo! 
+## Desenvolvedora Front-End em formação! 
 <img align="center" height="20" width="20" src="https://img.icons8.com/ios/50/000000/laptop--v1.png"/>   JavaScript, HTML & CSS 
  <br/>
 <img align="center" height="20" width="20" src="https://img.icons8.com/ios-glyphs/30/000000/student-center.png"/>   Análise e Desenvolvimento de Sistemas
